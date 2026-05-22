@@ -4,6 +4,7 @@ Record image-affecting changes to `manager/`, `worker/`, `copaw/`, `hermes/`, `o
 
 ---
 
+- fix(hiclaw-controller): apply the configured AI stream idle timeout to the self-hosted Higress gateway.
 - feat(team-leader): refresh Team Leader coordination prompts and built-in skills for project, task, file-sharing, communication, organization, and mcporter workflows.
 - fix(team-leader): keep legacy Team Leader skill names and helper scripts available for existing workspaces and integration tests.
 
